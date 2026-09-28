@@ -1,0 +1,16 @@
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS / editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# NOTE: models/model.pth is intentionally committed so the trained model
+# can be used without retraining. Don't ignore it.
